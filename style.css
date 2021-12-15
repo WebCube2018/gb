@@ -1,0 +1,66 @@
+body {
+  display: block;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-family: Lato;
+  font-style: normal;
+}
+
+.content {
+  margin: 0 auto;
+  max-width: 1140px;
+  width: 100%;
+}
+
+.page-header {
+  max-height: 75px;
+  background: #222222;
+}
+
+.header-content{
+  display: flex;
+  justify-content: space-between;
+}
+
+.left-container {
+  display: flex;
+  justify-content: space-between;
+  max-width: 111px;
+}
+
+.right-container {
+}
+
+.link-logo, .search-btn {
+  display: inline-block;
+}
+
+.link-logo {
+  padding: 18px 0 15px 0;
+  margin-right: 41px;
+}
+
+.search-btn {
+  background-color: unset;
+  border: 0;
+  margin: 0;
+  padding: 28px 0 20px 0;
+}
+
+.btn-menu {
+  padding: 22px 0 30px 0;
+}
+
+.sendwich {
+  border-top: 3px solid #FFFFFF;
+  width: 32px;
+}
+
+.sendwich-mar {
+  margin: 7px 0 7px 0;
+}
+
+.link-lk {
+  
+}
